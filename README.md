@@ -9,7 +9,7 @@ To launch the application, simply open the `index.html` file in your web browser
 ### Application Structure
 The Expanding CSS Card Application is structured as follows:
 
-```JavaScript
+```diff
 index.html
 style.css
 script.js
