@@ -1,5 +1,5 @@
-# Expanding CSS Card Application
-This is an expanding CSS card application built using HTML and CSS & JavaScript. The application allows users to create a simple card that expands when clicked to display additional information.
+# Expanding CSS Card
+This is an expanding CSS card application built using HTML and CSS & JavaScript. The application allows users to click on an image that expands when clicked clicked to display additional information or image
 
 ### Getting Started
 To get started with the Expanding CSS Card Application, you will need a web browser installed on your computer. The application is compatible with most modern web browsers, including Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
